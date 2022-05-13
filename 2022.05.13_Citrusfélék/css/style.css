@@ -17,6 +17,11 @@ h1{
 
 h2{    
     margin-top: 10px;    
+    color: #416618;
+    border-color:#416618;;
+    border-left: 3px dotted;
+    font-variant: small-caps;
+    padding: 15px 5px ;
 }
 
 h3{    
